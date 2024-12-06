@@ -1,0 +1,28 @@
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://wallpaperaccess.com/full/1267580.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.bn {
+  background-color: darkcyan; /* Green */
+  border: none;
+  color: black;
+  padding:12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.bn1:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
