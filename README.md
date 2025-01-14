@@ -1,3 +1,5 @@
+https://whoisfawaz.hashnode.dev/blockchain-based-chain-of-custody-b-coc-revolutionizing-evidence-management-for-law-enforcement
+
 # 🔒 Blockchain-Based Chain of Custody (B-COC)  
 🚨 **Revolutionizing Evidence Management for Law Enforcement**  
 
